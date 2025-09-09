@@ -13,7 +13,6 @@ Continuing my journey through Angela Yu’s Full Stack Bootcamp and building my 
 - 🤔 Looking for help with: backend architecture and testing best practices  
 - 💬 Ask me about: HTML, CSS, JavaScript, creative problem-solving  
 - 📫 Contact: adrendor@protonmail.com  
-- 😄 Pronouns: she/her  
 - 📜 Certified Full Stack Web Developer – Forma.Temp (248 hours, May–June 2025)  
 - 🧪 Completed a 2-week internship as a Junior Web Developer (July 2025), collaborating on two real client-facing web projects  
 - ⚡ Fun fact: I have a medical degree and love combining logic with creativity.  
@@ -30,7 +29,6 @@ Sto continuando il mio percorso con il Bootcamp di Angela Yu e costruendo il mio
 - 🤔 Vorrei confrontarmi su: architetture backend e best practices nei test  
 - 💬 Parliamone: HTML, CSS, JavaScript, problem solving creativo  
 - 📫 Contatto: adrendor@protonmail.com  
-- 😄 Pronomi: she/her  
 - 📜 Certificato Full Stack Web Developer – Forma.Temp (248 ore, Maggio–Giugno 2025)  
 - 🧪 Ho completato uno stage di 2 settimane come Junior Web Developer (Luglio 2025), collaborando a due progetti web rivolti a clienti reali  
 - ⚡ Curiosità: ho una laurea in medicina e adoro unire logica e creatività
