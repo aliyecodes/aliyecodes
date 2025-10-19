@@ -1,9 +1,7 @@
 # Hi, I'm Aliye 👋  
-*(🇬🇧 English below / 🇮🇹 Italiano sotto)*
-
 ---
 
-## 🇬🇧 Hi! I'm Aliye  
+## Hi! I'm Aliye  
 I'm a junior full stack developer with a background in medicine.  
 Continuing my journey through Angela Yu’s Full Stack Bootcamp and building my portfolio step by step.
 
@@ -19,7 +17,7 @@ Continuing my journey through Angela Yu’s Full Stack Bootcamp and building my 
 
 ---
 
-## 🇮🇹 Ciao! Sono Alice  
+## Ciao! Sono Alice  
 Sono una junior full stack developer con un background in medicina.  
 Sto continuando il mio percorso con il Bootcamp di Angela Yu e costruendo il mio portfolio passo dopo passo.
 
